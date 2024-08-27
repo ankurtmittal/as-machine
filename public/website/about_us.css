@@ -1,0 +1,58 @@
+.main_heading{
+    background-color: #F2F2F7;
+}
+.main_heading_h5{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 40px;
+    text-transform: capitalize;
+    color: #000000;
+}
+.main_heading_p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 9px;
+    /* identical to box height */
+    text-transform: capitalize;
+    color: #555555;
+}
+.why_choose_us{
+    background-color: #F6F6F6;
+}
+.active_set li a{
+    /* background-color: red; */
+    padding: 10px 17px;
+    border-radius: 5px;
+    /* color: white !important; */
+}
+.active_set li a:hover{
+    background-color: red;
+    padding: 10px 17px !important;
+    border-radius: 5px;
+    color: white !important;
+}
+.a_fist_1{
+    background-color: red;
+    padding: 10px 17px !important; 
+    border-radius: 5px;
+    color: white !important;
+}
+
+/* footer css end */
+.active_set li a:active{
+    background-color: red;
+    padding: 10px 17px !important;
+}
+
+/* .active_set li a:nth-child(1) {
+    color:blue !important;
+  } */
+  .nav_list ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 20px 5px !important;
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+}
